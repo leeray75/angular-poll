@@ -5,6 +5,8 @@ const styles = require('./app.component.scss');
   template: require('./app.component.html'),
   styles: [`${styles}`]
 })
-export class AppComponent {
+export class AppComponent{
   title = 'app';
+
 }
+
